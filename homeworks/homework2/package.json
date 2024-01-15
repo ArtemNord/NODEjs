@@ -1,0 +1,11 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "Math function",
+  "main": "math.js",
+  "scripts": {
+    "start": "node ./math.js"
+  },
+  "author": "ArtemNord",
+  "license": "ISC"
+}
